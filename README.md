@@ -158,7 +158,7 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
  
 Duresa Feyisa - [Github](https://github.com/duressa-feyissa)
-Bisrat Kebere - [Github](https://github.com/BisRayy)
+Daniel Adedotun
   
 Second part of Airbnb: Joann Vuong
 ## License
